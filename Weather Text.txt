@@ -1,0 +1,3 @@
+Vremea:  fog
+Temperatura:  4.05 °C
+Umiditate:  93 %
